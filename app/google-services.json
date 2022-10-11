@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998660046448",
+    "project_id": "prayer-bank-java",
+    "storage_bucket": "prayer-bank-java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998660046448:android:9a9e9afe8cc6d68f5b3eb5",
+        "android_client_info": {
+          "package_name": "edu.handong.ict.dep.prayerbankjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998660046448-fjev9jtj1hu3v18r895pou9f056r3isl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEYmSEBttZ9QuR6JJcXxQ_pcuKtpJaHbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998660046448-fjev9jtj1hu3v18r895pou9f056r3isl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
